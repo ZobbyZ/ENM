@@ -64,8 +64,7 @@ box-shadow: 5px 2px 6px -3px rgba(0,0,0,0.13);
 }
 
 
-#carouselExampleIndicators{
-    position: relative;
+.carousel .slide{
     width: 75% !important;
     margin: 0 auto !important;
 }
